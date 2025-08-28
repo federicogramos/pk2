@@ -1,5 +1,5 @@
 # About
-Diseño de hardware, una version eliminando lo que no es indispensable del circuito original usado por Microchip, de modo que entre en una placa de tamaño no mas grande que un pendrive. El firmware se brinda sin modificaciones del propio Microchip.
+Diseño de hardware de programador pk2, una version eliminando lo que no es indispensable del circuito original usado por Microchip, de modo que entre en una placa de tamaño no mas grande que un pendrive. El firmware se brinda sin modificaciones del propio Microchip.
 ## ./sw
 Contiene el firmware para el 18F2550.
 ## ./pcb

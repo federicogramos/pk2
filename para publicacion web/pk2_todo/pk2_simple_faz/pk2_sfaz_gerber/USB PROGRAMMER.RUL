@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\0000 FEDE\16GB\0000 INTERIOR\0000 OBSOLETO\0045 PICKIT2\0001 PROTEL\para publicacion web\PK2_ANTES_DE_DOUBLE\USB PROGRAMMER.PCBDOC
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=12.50
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

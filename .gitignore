@@ -1,0 +1,7 @@
+# Herramientas de software como compiladores y simuladores.
+tools/*
+
+# Notas durante el desarrollo y otras cosas varias.
+otherFiles/*
+
+*DS_Store

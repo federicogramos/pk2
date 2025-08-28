@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: USB PROGRAMMER.PCBDOC   08-Jul-17  6:01:54 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB PROGRAMMER.TXT
+EIA File   : USB PROGRAMMER.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        30mil (0.762mm)          Round          18               4.12 Inch (104.73 mm)
+T2        40mil (1.016mm)          Round          19               3.18 Inch (80.65 mm)
+T3        90mil (2.286mm)          Round          2                0.52 Inch (13.21 mm)
+---------------------------------------------------------------------------
+Totals                                            39               7.82 Inch (198.58 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

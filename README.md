@@ -3,7 +3,9 @@ Diseño de hardware, una version eliminando lo que no es indispensable del circu
 ## ./sw
 Contiene el firmware para el 18F2550.
 ## ./pcb
-Contiene 2 diseños, (1) el del Pickit2 y (2) Un zocalo externo para encapsulados DIP.
+Contiene 2 diseños:
+- el del Pickit2
+- un zocalo externo para encapsulados DIP.
 
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/pcb_bot.jpg)
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/pcb_top.jpg)

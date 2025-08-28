@@ -7,16 +7,18 @@ Contiene 2 diseños:
 - el del Pickit2
 - un zocalo externo para encapsulados DIP.
 
+#### Pk2 pcb top y bottom
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/pcb_bot.jpg)
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/pcb_top.jpg)
 
+#### Sch
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_00.jpg)
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_01.jpg)
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_02.jpg)
 
+#### Prototipo top y bottom
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/prototipo_top.jpg)
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/prototipo_bot.jpg)
 
 ## ./manual
 Obsoleto. Antiguamente se entregaba con el dispositivo.
-# pk2

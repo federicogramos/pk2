@@ -3,8 +3,9 @@ Diseño de hardware de programador pk2, una version eliminando lo que no es indi
 
 ## ./sw
 - device file editor: herramienta para adicionar cualquier modelo a la lista de dispositivos programables del pk2.
-- código fuente de app pk2 v2.61
-- firmware para el 18F2550 (PK2V023200.hex)
+- codigo fuente + firmware para el 18F2550 (PK2V023200.hex).
+- código fuente app pk2 v2.61
+- app pk2 linea de comando.
 
 ## ./pcb
 Contiene 2 diseños:

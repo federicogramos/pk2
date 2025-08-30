@@ -16,9 +16,9 @@ Contiene 2 diseños:
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/pcb_top.jpg)
 
 #### Schematic (pk2)
-![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_00.jpg)
-![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_01.jpg)
-![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_02.jpg)
+![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_uc.jpg)
+![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_io.jpg)
+![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_stepUp.jpg)
 
 #### Prototipo top y bottom
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/prototipo_top.jpg)

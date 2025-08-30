@@ -1,7 +1,11 @@
 # About
 Diseño de hardware de programador pk2, una version eliminando lo que no es indispensable del circuito original usado por Microchip, de modo que entre en una placa de tamaño no mas grande que un pendrive. El firmware se brinda sin modificaciones del propio Microchip.
+
 ## ./sw
-Contiene el firmware para el 18F2550.
+- device file editor: herramienta para adicionar cualquier modelo a la lista de dispositivos programables del pk2.
+- código fuente de app pk2 v2.61
+- firmware para el 18F2550 (PK2V023200.hex)
+
 ## ./pcb
 Contiene 2 diseños:
 - el del Pickit2

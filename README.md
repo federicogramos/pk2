@@ -15,7 +15,7 @@ Contiene 2 diseños:
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/pcb_bot.jpg)
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/pcb_top.jpg)
 
-#### Schematic (pk2)
+#### Schematic (pk2 only)
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_uc.jpg)
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_io.jpg)
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/sch_stepUp.jpg)

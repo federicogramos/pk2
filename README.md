@@ -11,6 +11,7 @@ Diseño de hardware de programador pk2, una version eliminando lo que no es indi
 Contiene 2 diseños:
 - el del Pickit2
 - un zocalo externo para encapsulados DIP.
+Del pcb pendrive estoy subiendo unicamente la última version. Tengo otra que fue el 1er prototipo single layer. Si en algun momento a alguien le interesa porque la fabricacion es más simple y no requiere pth, puede solicitarme que la suba.
 
 #### Pk2 pcb top y bottom
 ![alt text](https://raw.githubusercontent.com/federicogramos/pk2/master/pcb/pk2/otherFiles/pcb_bot.jpg)
